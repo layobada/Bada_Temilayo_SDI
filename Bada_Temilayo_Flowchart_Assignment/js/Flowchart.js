@@ -5,4 +5,4 @@ Section 02
 Flowchart Assignment Week 1
  */
 
-alert("Test to see if connected.");
+alert("Testing to see if connected.");
