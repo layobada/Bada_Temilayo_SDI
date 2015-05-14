@@ -48,3 +48,13 @@ console.log(twoYears);
 console.log(name + " you will be paying " +  twoYears + " in "+ multipleYears + " years.");
 
 alert(name + " you will be paying " +  twoYears + " in "+ multipleYears + " years.");
+
+
+//Input test values
+/*
+I type in 500 for my rent
+I type in rent for 12 months
+It said 6000
+I typed in rent for 2 years
+It said 12000
+ */
