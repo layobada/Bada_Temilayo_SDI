@@ -31,3 +31,14 @@ var rent = twelveMonths * rentPerMonth;
 //alert and console.log the user with the result
 alert (name+" you pay "+rent+" per year");
 console.log (name+" you pay "+rent+" per year");
+
+//ask how much is rent for multiple years
+var multipleYears = prompt("how many years do you want to know?")
+
+console.log(multipleYears);
+
+//To calculate how much in two years is multipleYears and Rent per year
+var twoYears = rent;
+twoYears+=rent;
+
+console.log(twoYears);
