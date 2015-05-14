@@ -20,3 +20,14 @@ var rentPerMonth = prompt ("How much is rent per month?");
 
 //Apply console.log to check the result
 console.log(rentPerMonth);
+
+//calculate rent for twelve months
+
+var twelveMonths = 12
+
+//To calculate rent for twelve months
+var rent = twelveMonths * rentPerMonth;
+
+//alert and console.log the user with the result
+alert (name+" you pay "+rent+" per year");
+console.log (name+" you pay "+rent+" per year");
