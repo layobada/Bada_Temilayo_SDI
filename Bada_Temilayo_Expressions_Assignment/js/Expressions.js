@@ -42,3 +42,9 @@ var twoYears = rent;
 twoYears+=rent;
 
 console.log(twoYears);
+
+//Alert and console.log the expression for the result
+
+console.log(name + " you will be paying " +  twoYears + " in "+ multipleYears + " years.");
+
+alert(name + " you will be paying " +  twoYears + " in "+ multipleYears + " years.");
