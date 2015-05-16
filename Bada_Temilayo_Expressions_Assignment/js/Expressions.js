@@ -49,12 +49,23 @@ console.log(name + " you will be paying " +  twoYears + " in "+ multipleYears + 
 
 alert(name + " you will be paying " +  twoYears + " in "+ multipleYears + " years.");
 
+//Create an array for the test values
+//Use array to calculate the total of the test values
 
-//Input test values
+var testValues = [500, 6000, 12000];
+var sum = testValues[0] + testValues[1] + testValues [2];
+
+console.log(sum);
+
+// Type in test Values
 /*
-I type in 500 for my rent
-I type in rent for 12 months
-It said 6000
-I typed in rent for 2 years
-It said 12000
+ I entered 500 for the amount of rent
+ I typed in the amount of rent for 12 months
+ It said 6000
+ I typed in the amount of rent for 2 years
+ It said 12000
  */
+
+
+
+
