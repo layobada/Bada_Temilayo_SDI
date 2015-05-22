@@ -26,3 +26,18 @@ console.log(zoo[3]);
 //To check how many items are in the array using Dot Syntax
 console.log(zoo.length);
 
+//write out the variables for the number of each animals in the zoo
+
+var numLion = 4;
+var numTiger = 5;
+var numMonkey = 8
+var numElephant = 9;
+
+if(numLion===numTiger){
+    //code will run if they are the same number
+    console.log("number of lion and tiger are the same");
+} else{
+    //code will run if they are not the same
+    console.log("number of lion and tiger are not the same");
+}
+
