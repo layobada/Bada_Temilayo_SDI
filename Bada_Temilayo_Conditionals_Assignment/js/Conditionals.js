@@ -43,7 +43,7 @@ if(numLion===numTiger){
     console.log("number of lion and tiger are not the same");
 }
 
-//using else if statement to determine the numbers of animals in the zoo
+//using if statement to determine the numbers of animals in the zoo
 
 if (numMonkey===numElephant) {
     //code will run if the are the number
@@ -74,3 +74,21 @@ var total;
 total= (numLion + numTiger === numElephant)? "True" : "False";
 console.log(total);
 
+//validate the prompts
+//validate prompts by asking for username
+var userName = prompt("What is your username?");
+
+//validate prompts by asking question
+var numLion = prompt ("How many number of lions are in the zoo?");
+
+
+//validate prompts by asking another question
+
+var numTiger= prompt ("How many number of tigers are in the zoo?");
+
+/*
+Test values
+
+i entered 4 for number of lions
+i entered 5 for number of tigers
+ */
