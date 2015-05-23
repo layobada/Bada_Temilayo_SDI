@@ -33,6 +33,8 @@ var numTiger = 5;
 var numMonkey = 8
 var numElephant = 9;
 
+//using conditional statements
+
 if(numLion===numTiger){
     //code will run if they are the same number
     console.log("number of lion and tiger are the same");
@@ -41,3 +43,12 @@ if(numLion===numTiger){
     console.log("number of lion and tiger are not the same");
 }
 
+//using else if statement to determine the numbers of animals in the zoo
+
+if (numMonkey===numElephant) {
+    //code will run if the are the number
+    console.log("number of monkey and elephant are the same");
+} else{
+    //code will run if they are not the same
+    console.log("number of monkey and elephant are not the same");
+}
