@@ -52,3 +52,25 @@ if (numMonkey===numElephant) {
     //code will run if they are not the same
     console.log("number of monkey and elephant are not the same");
 }
+
+//using else if statement
+
+if(numLion > numTiger){
+    //it is a false statement
+    console.log("false");
+
+}else if(numLion < numTiger){
+    //it is a true statement
+    console.log("true");
+}else{
+   //They are the same
+    console.log("the same");
+
+}
+
+//using ternary operator
+//if numLion and numTiger is the same as numElephant the statement is true otherwise it is a false statement
+var total;
+total= (numLion + numTiger === numElephant)? "True" : "False";
+console.log(total);
+
