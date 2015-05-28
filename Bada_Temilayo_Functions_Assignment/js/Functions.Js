@@ -8,7 +8,7 @@
 //alert("Testing to see if attached.");
 
 //Create a function to calculate Buoyant force
-// We have three variables in the formula Density,Volume and Weight
+// We have three variables in the formula which are Density,Volume and Weight
 var density= 5
 var volume = 4
 var  weight = 6
@@ -23,3 +23,26 @@ function buoyantForce(density,volume,weight){
 }
 //console.log using var sum
 console.log(sum);
+
+
+//create a function to calculate the the force of a moving car
+//we have two variables in the formular which are mass and acceleration
+//create a function using anonymous function
+
+var mass = 24
+var acceleration = 12
+
+//calculating the function using parameter
+var force = function force(mass,acceleration){
+    //using the returning value method
+    var force = mass * acceleration;
+    return force;
+}
+//declaring the function invocation
+//console.log using the var total
+var total = force(24,12)
+console.log(total);
+
+
+
+
