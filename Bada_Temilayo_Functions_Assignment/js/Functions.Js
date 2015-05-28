@@ -44,8 +44,17 @@ var total = force(24,12)
 console.log(total);
 
 //validate prompt
-// Ask the user for name
-var name = prompt('Please type in your name.');
+//please ask user to type in name
+var name= prompt("please type in your name");
+
+//create a calculator for the rough estimate of worshippers in a church
+
+// not sure of the population so we can use number of tithe payers and non tithe payers
+
+var tithePayers= prompt("Type in the exact number of tithe payers.\nPlease strictly numbers!");
+
+//using number of non-tithe payers
+var nonTithePayers= prompt("Type in the exact number of tithe payers.\nPlease strictly numbers!");
 
 
 
