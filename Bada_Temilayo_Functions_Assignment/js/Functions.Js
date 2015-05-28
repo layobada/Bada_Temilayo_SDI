@@ -43,6 +43,10 @@ var force = function force(mass,acceleration){
 var total = force(24,12)
 console.log(total);
 
+//validate prompt
+// Ask the user for name
+var name = prompt('Please type in your name.');
+
 
 
 
