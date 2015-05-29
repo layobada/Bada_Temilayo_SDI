@@ -54,8 +54,28 @@ var name= prompt("please type in your name");
 var tithePayers= prompt("Type in the exact number of tithe payers.\nPlease strictly numbers!");
 
 //using number of non-tithe payers
-var nonTithePayers= prompt("Type in the exact number of tithe payers.\nPlease strictly numbers!");
+var nonTithePayers= prompt("Type in the exact number of non-tithe payers.\nPlease strictly numbers!");
+
+//To calculate the number of worshipers in the church
+//cast the nonTithePayers as a number
+var total = Number(tithePayers) + Number(nonTithePayers);
+
+//alert and console.log the user with the result
+alert(" population " + "is " +total);
+console.log (" population " + "is " +total);
+
+/*
+//defining the test values
+I typed in number of tithe payers as 25
+I typed in number of non tithe payers as 15
+i requested for the total
+it gives me 40
+
+Testing the values
+i typed in 5 for number of tithe payers
+i typed in 10 for number of tithe payers
 
 
+ */
 
 
