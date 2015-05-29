@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a5631eb-e8e8-4447-8889-a5d63a45026c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bada_Temilayo_Functions_Assignment/js/Functions.Js" afterPath="$PROJECT_DIR$/Bada_Temilayo_Functions_Assignment/js/Functions.Js" />
-    </list>
+    <list default="true" id="1a5631eb-e8e8-4447-8889-a5d63a45026c" name="Default" comment="" />
     <ignored path="Bada_Temilayo_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +27,7 @@
       <file leaf-file-name="Functions.Js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Bada_Temilayo_Functions_Assignment/js/Functions.Js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.91584855" vertical-offset="427" max-vertical-offset="1245">
+            <state vertical-scroll-proportion="0.9887798" vertical-offset="375" max-vertical-offset="1245">
               <caret line="77" column="11" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
               <folding />
             </state>
@@ -618,7 +616,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bada_Temilayo_Functions_Assignment/js/Functions.Js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.91584855" vertical-offset="427" max-vertical-offset="1245">
+        <state vertical-scroll-proportion="0.9887798" vertical-offset="375" max-vertical-offset="1245">
           <caret line="77" column="11" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
           <folding />
         </state>
