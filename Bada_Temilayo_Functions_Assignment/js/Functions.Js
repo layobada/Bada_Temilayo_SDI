@@ -74,7 +74,8 @@ it gives me 40
 Testing the values
 i typed in 5 for number of tithe payers
 i typed in 10 for number of tithe payers
-
+i requested for the total
+it gives 15
 
  */
 
